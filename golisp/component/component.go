@@ -1,4 +1,4 @@
-package conponent
+package component
 
 type I uint
 type L float64
