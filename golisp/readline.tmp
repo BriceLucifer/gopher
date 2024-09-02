@@ -8,3 +8,10 @@ sdjasld
 但是我想用历史记录
 比如
 exit
+ls
+exit
+(add 1 2)
+exit
+(mul 1 2)
+ls
+exit
