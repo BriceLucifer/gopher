@@ -15,3 +15,11 @@ exit
 (mul 1 2)
 ls
 exit
+( add 1 2 )
+exit
+(add 1 2)
+(mul 2 2)
+(mul 2 3)
+(div 4 2)
+wxit
+exit
